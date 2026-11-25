@@ -5,7 +5,7 @@ office life.
 The line works because the printer is the office's only honest
 employee: it never jams on a quiet Tuesday, only when the deadline is
 real. Fear and low toner are its performance review. One image, one
-sentence, no setup wasted — the joke is the whole entry.
+sentence, no setup wasted — the joke is the entire entry.
 """
 
 import os
